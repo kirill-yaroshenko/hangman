@@ -1,1 +1,2 @@
 print("NF")
+print("local")
